@@ -50,7 +50,7 @@ My research interest includes computer vision, industrial visual inspection and 
 
 # 💡 Patents
 
-- Abnormality detection model training method, abnormality detection device and electronic equipment, Guibo Zhu, Bngke Zhu, **Zhaopeng Gu**, Yingying Chen, Jinqiao Wang, Patent No. CN116403077B
+- Abnormality detection model training method, abnormality detection device and electronic equipment, Guibo Zhu, Bingke Zhu, **Zhaopeng Gu**, Yingying Chen, Jinqiao Wang, Patent No. CN116403077B
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
