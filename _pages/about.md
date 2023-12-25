@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi! My name is Zhaopeng Gu (古兆鹏). I'm now a master's student at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)(中国科学院自动化研究所), supervised by [Assoc. Prof. Guibo Zhu](https://scholar.google.com/citations?user=tVeCxZcAAAAJ) and [Asst. Prof. Bingke Zhu](https://scholar.google.com/citations?user=5D3bRmoAAAAJ) at [Foundation Model Research Center](http://taichu.ia.ac.cn/).
 
-I graduated from [School of Computer Science](https://scs.bupt.edu.cn/), [Beijing University of Beijing University of Post and Telecommunication](https://www.bupt.edu.cn/)(北京邮电大学计算机学院) with a bachelor’s degree.
+I graduated from [School of Computer Science](https://scs.bupt.edu.cn/), [Beijing University of Post and Telecommunication](https://www.bupt.edu.cn/)(北京邮电大学计算机学院) with a bachelor’s degree.
 
 My research interest includes computer vision, industrial visual inspection and multi-modal learning. I have published 1 paper at the top international AI conferences AAAI as the first author.
 
