@@ -27,6 +27,7 @@ My research interest includes computer vision, industrial visual inspection and 
 
 # 🔥 News
 - *2023.12*: &nbsp;📝 One paper has been accepted by **the 38th Annual AAAI Conference on Artificial Intelligence** (AAAI, CCF-A Conference)!
+- *2023.12*: &nbsp;🏆 Won **the first prize** in the artificial intelligence elite class project of the CASIA!
 - *2023.08*: &nbsp;💡 Our patent (Patent No. CN116403077B) has been accepted for publication!
 - *2023.06*: &nbsp;🎉 Graduated from Beijing University of Post and Telecommunication with GPA 3.85/4.0!
 - *2023.06*: &nbsp;🏆 Obtain **Outstanding Bachelor's Degree Thesis Award** from Beijing University of Posts and Telecommunications!
@@ -54,8 +55,14 @@ My research interest includes computer vision, industrial visual inspection and 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2023.12* **The first prize** in the artificial intelligence elite class project of the CASIA
 - *2023.06* **Outstanding Bachelor's Degree Thesis Award** from Beijing University of Posts and Telecommunications (Top 2%)
 - *2023.06* **Outstanding Undergraduate Students** of Beijing (Top 5%)
+- *2022.12* **Municipal Merit Student** of Beijing University of Posts and Telecommunications
+- *2021.12* **First Class Scholarship** of Beijing University of Posts and Telecommunications
+- *2021.08* **National second prize** in the National College Student Smart Car Competition
+- *2020.12* **First Class Scholarship** of Beijing University of Posts and Telecommunications
+
 
 # 📖 Educations
 - *2023.09 - Present*, Master, Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing.
