@@ -15,44 +15,55 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+# 👋🏼 About Me
 <span class='anchor' id='about-me'></span>
+Hi! My name is Zhaopeng Gu (古兆鹏). I'm now a master's student at [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)(中国科学院自动化研究所), supervised by [Assoc. Prof. Guibo Zhu](https://scholar.google.com/citations?user=tVeCxZcAAAAJ) and [Asst. Prof. Bingke Zhu](https://scholar.google.com/citations?user=5D3bRmoAAAAJ) at [Foundation Model Research Center](http://taichu.ia.ac.cn/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I graduated from [School of Computer Science](https://scs.bupt.edu.cn/), [Beijing University of Beijing University of Post and Telecommunication](https://www.bupt.edu.cn/)(北京邮电大学计算机学院) with a bachelor’s degree.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes computer vision, industrial visual inspection and multi-modal learning. I have published 1 paper at the top international AI conferences AAAI as the first author.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;📝 One paper has been accepted by **the 38th Annual AAAI Conference on Artificial Intelligence** (AAAI, CCF-A Conference)!
+- *2023.08*: &nbsp;💡 Our patent (Patent No. CN116403077B) has been accepted for publication!
+- *2023.06*: &nbsp;🎉 Graduated from Beijing University of Post and Telecommunication with GPA 3.85/4.0!
+- *2023.06*: &nbsp;🏆 Obtain **Outstanding Bachelor's Degree Thesis Award** from Beijing University of Posts and Telecommunications!
+- *2023.06*: &nbsp;🏆 Obtain the title of **Outstanding Undergraduate Students** of Beijing!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AnomalyGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models](https://arxiv.org/abs/2308.15366)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhaopeng Gu**, Bingke Zhu, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project Page**](https://anomalygpt.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is the first Large Vision-Language Model based Industial Anomaly Detection (IAD) method!
+- Achieved state-of-the-art (SOTA) performance in the few-shot IAD domain.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💡 Patents
+
+- Abnormality detection model training method, abnormality detection device and electronic equipment, Guibo Zhu, Bngke Zhu, **Zhaopeng Gu**, Yingying Chen, Jinqiao Wang, Patent No. CN116403077B
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* **Outstanding Bachelor's Degree Thesis Award** from Beijing University of Posts and Telecommunications (Top 2%)
+- *2023.06* **Outstanding Undergraduate Students** of Beijing (Top 5%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Present*, Master, Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing.
+- *2019.09 - 2023.07*, Undergraduate, Bejing University of Post and Telecommunication (BUPT), Beijing. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
