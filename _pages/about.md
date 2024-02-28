@@ -26,6 +26,7 @@ My research interest includes computer vision, industrial visual inspection and 
 
 
 # 🔥 News
+- *2024.02*: &nbsp;💡 Our patent (Patent No. CN117173530B) has been accepted for publication!
 - *2023.12*: &nbsp;📝 One paper has been accepted by **the 38th Annual AAAI Conference on Artificial Intelligence** (AAAI, CCF-A Conference)!
 - *2023.12*: &nbsp;🏆 Won **the first prize** in the artificial intelligence elite class project of the CASIA!
 - *2023.08*: &nbsp;💡 Our patent (Patent No. CN116403077B) has been accepted for publication!
@@ -35,7 +36,7 @@ My research interest includes computer vision, industrial visual inspection and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/AnomalyGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024 (Oral)</div><img src='images/AnomalyGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models](https://arxiv.org/abs/2308.15366)
@@ -49,7 +50,7 @@ My research interest includes computer vision, industrial visual inspection and 
 </div>
 
 # 💡 Patents
-
+- Target abnormality detection method and device, Bingke Zhu, Guibo Zhu, **Zhaopeng Gu**, Jinqiao Wang, Yingying Chen, Patent No. CN117173530B
 - Abnormality detection model training method, abnormality detection device and electronic equipment, Guibo Zhu, Bingke Zhu, **Zhaopeng Gu**, Yingying Chen, Jinqiao Wang, Patent No. CN116403077B
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
