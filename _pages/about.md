@@ -22,10 +22,12 @@ Hi! My name is Zhaopeng Gu (古兆鹏). I'm now a master's student at [Institute
 
 I graduated from [School of Computer Science](https://scs.bupt.edu.cn/), [Beijing University of Post and Telecommunication](https://www.bupt.edu.cn/)(北京邮电大学计算机学院) with a bachelor’s degree.
 
-My research interest includes computer vision, industrial visual inspection and multi-modal learning. I have published 1 paper at the top international AI conferences AAAI as the first author.
+My research interest includes computer vision, industrial visual inspection and multi-modal learning. I have published several papers at the top international AI conferences, and I'm also a reviewer for several high-quality journals such as IEEE Transactions on Multimedia and Pattern Recognition.
 
 
 # 🔥 News
+- *2024.07*: &nbsp;📝 One paper has been accepted by **ACM MULTIMEDIA 2024** (ACM MM, CCF-A Conference)!
+- *2024.06*: &nbsp;🏆 Won **the 1st Place** in the VAND 2.0 Challenge at CVPR 2024!
 - *2024.02*: &nbsp;💡 Our patent (Patent No. CN117173530B) has been accepted for publication!
 - *2023.12*: &nbsp;📝 One paper has been accepted by **the 38th Annual AAAI Conference on Artificial Intelligence** (AAAI, CCF-A Conference)!
 - *2023.12*: &nbsp;🏆 Won **the first prize** in the artificial intelligence elite class project of the CASIA!
@@ -35,6 +37,16 @@ My research interest includes computer vision, industrial visual inspection and 
 - *2023.06*: &nbsp;🏆 Obtain the title of **Outstanding Undergraduate Students** of Beijing!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/FiLo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization](https://arxiv.org/abs/2404.13671)
+
+**Zhaopeng Gu**, Bingke Zhu, Guibo Zhu, Yingying Chen, Hao Li, Ming Tang, Jinqiao Wang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024 (Oral)</div><img src='images/AnomalyGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,6 +68,7 @@ My research interest includes computer vision, industrial visual inspection and 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.06* **the 1st Place** in the VAND 2.0 Challenge at CVPR 2024!
 - *2023.12* **The first prize** in the artificial intelligence elite class project of the CASIA
 - *2023.06* **Outstanding Bachelor's Degree Thesis Award** from Beijing University of Posts and Telecommunications (Top 2%)
 - *2023.06* **Outstanding Undergraduate Students** of Beijing (Top 5%)
