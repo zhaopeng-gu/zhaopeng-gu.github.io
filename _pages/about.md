@@ -38,7 +38,7 @@ My research interest includes computer vision, industrial visual inspection and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/FiLo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/FiLo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization](https://arxiv.org/abs/2404.13671)
