@@ -68,6 +68,7 @@ My research interest includes computer vision, industrial visual inspection and 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024.11* **China National Scholarship** at CASIA, by Ministry of Education of China
 - *2024.06* **the 1st Place** in the VAND 2.0 Challenge at CVPR 2024!
 - *2023.12* **The first prize** in the artificial intelligence elite class project of the CASIA
 - *2023.06* **Outstanding Bachelor's Degree Thesis Award** from Beijing University of Posts and Telecommunications (Top 2%)

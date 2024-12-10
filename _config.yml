@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhaopeng Gu"
-  avatar           : "images/avatar.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Master's student at Institute of Automation, Chinese Academy of Sciences (CASIA)"
   location         : "Beijing, China"
   employer         :
