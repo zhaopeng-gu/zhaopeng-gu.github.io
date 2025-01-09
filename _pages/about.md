@@ -26,17 +26,22 @@ My research interest includes computer vision, industrial visual inspection and 
 
 
 # 🔥 News
+- *2024.12*: &nbsp;📝 One paper has been accepted by **IEEE Transactions on Instrumentation and Measurement** (IEEE TIM)!
+- *2024.11*: &nbsp;🏆 Won the **China National Scholarship** at CASIA, by Ministry of Education of China!
 - *2024.07*: &nbsp;📝 One paper has been accepted by **ACM MULTIMEDIA 2024** (ACM MM, CCF-A Conference)!
 - *2024.06*: &nbsp;🏆 Won **the 1st Place** in the VAND 2.0 Challenge at CVPR 2024!
-- *2024.02*: &nbsp;💡 Our patent (Patent No. CN117173530B) has been accepted for publication!
-- *2023.12*: &nbsp;📝 One paper has been accepted by **the 38th Annual AAAI Conference on Artificial Intelligence** (AAAI, CCF-A Conference)!
-- *2023.12*: &nbsp;🏆 Won **the first prize** in the artificial intelligence elite class project of the CASIA!
-- *2023.08*: &nbsp;💡 Our patent (Patent No. CN116403077B) has been accepted for publication!
-- *2023.06*: &nbsp;🎉 Graduated from Beijing University of Post and Telecommunication with GPA 3.85/4.0!
-- *2023.06*: &nbsp;🏆 Obtain **Outstanding Bachelor's Degree Thesis Award** from Beijing University of Posts and Telecommunications!
-- *2023.06*: &nbsp;🏆 Obtain the title of **Outstanding Undergraduate Students** of Beijing!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIM</div><img src='images/ADformer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ADFormer: Generalizable Few-Shot Anomaly Detection With Dual CNN-Transformer Architecture](https://ieeexplore.ieee.org/document/10816355)
+
+Bingke Zhu, **Zhaopeng Gu**, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/FiLo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
