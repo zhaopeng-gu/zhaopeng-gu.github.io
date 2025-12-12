@@ -86,18 +86,19 @@ Bingke Zhu, **Zhaopeng Gu**, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang
 [**Project Page**](https://anomalygpt.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is the first Large Vision-Language Model based Industial Anomaly Detection (IAD) method!
 - Achieved state-of-the-art (SOTA) performance in the few-shot IAD domain.
-- More than 1k stars on Github!
+- More than **1k stars** on [Github](https://github.com/CASIA-LMC-Lab/AnomalyGPT)!
 </div>
 </div>
 
 # 💡 Patents
-- Target abnormality detection method and device, Bingke Zhu, Guibo Zhu, **Zhaopeng Gu**, Jinqiao Wang, Yingying Chen, Patent No. CN117173530B
-- Abnormality detection model training method, abnormality detection device and electronic equipment, Guibo Zhu, Bingke Zhu, **Zhaopeng Gu**, Yingying Chen, Jinqiao Wang, Patent No. CN116403077B
+- Target abnormality detection method and device, Bingke Zhu, Guibo Zhu, **Zhaopeng Gu**, Jinqiao Wang, Yingying Chen, Patent No. ZL202311447067.5A
+- Abnormality detection model training method, abnormality detection device and electronic equipment, Guibo Zhu, Bingke Zhu, **Zhaopeng Gu**, Yingying Chen, Jinqiao Wang, Patent No. ZL202310666476.8A
+- Cross-domain small sample anomaly detection method, device, electronic device and storage medium, Bingke Zhu, Guibo Zhu, **Zhaopeng Gu**, Yingying Chen, Jinqiao Wang, Patent No. ZL202510363946.2A
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.06* **the 2nd Place** in the VAND 2.0 Challenge at CVPR 2024!
+- *2024.06* **the 2nd Place** in the VAND 3.0 Challenge at CVPR 2025!
 - *2024.11* **China National Scholarship** at CASIA, by Ministry of Education of China
 - *2024.06* **the 1st Place** in the VAND 2.0 Challenge at CVPR 2024!
 - *2023.12* **The first prize** in the artificial intelligence elite class project of the CASIA
